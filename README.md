@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MonPremierProjet
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.18.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Gestion-de-stock
+partie angular avec angular
+>>>>>>> 925a2a931e56e2969a7918bca2980763b628877c
